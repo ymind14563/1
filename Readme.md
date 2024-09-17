@@ -38,7 +38,7 @@
 
 ### Deploy Tools
 
-  <BR><BR>
+  <br><br>
 ### Collaboration Tools
 
 <p>
@@ -71,21 +71,20 @@
 <br >
 <div align="start">
 
-<BR>
-  <BR>
-    <BR>
+<br>
+  <br>
+    <br>
 
 
 ## :notebook: 사용자 요구사항 정의서
 <br />[사용자 요구사항 정의서]
-<BR>
+<br>
 <br />![234235_12](https://github.com/codestates-seb/seb43_main_033/assets/74657430/f890c110-f921-4326-a0c8-4705b6541cb3)
 <br />![234235_13](https://github.com/codestates-seb/seb43_main_033/assets/74657430/a28d0c10-e918-4268-8f0b-8efa3dece016)
 <br />![234235_14](https://github.com/codestates-seb/seb43_main_033/assets/74657430/ea623518-6373-437b-85e4-96124597871b)
 
-<BR>
+<br>
 <br />[개발자 체크리스트]
-<BR>
   
 <br />![234235_10](https://github.com/codestates-seb/seb43_main_033/assets/74657430/cbe9b401-9844-46b1-9f1c-5d66f2a72e8c)
 <br />![234235_11](https://github.com/codestates-seb/seb43_main_033/assets/74657430/605ecbaf-edfb-4b52-bda5-25bf0022f391)
@@ -93,17 +92,18 @@
 <br />[테이블 명세서](https://drive.google.com/file/d/1YY5cIBqij1XBdhOTJc_Pm_puu4e_yrMx/view?usp=drive_link)
 <br />![SEB_MAIN_33 - 테이블 명세서-1](https://github.com/codestates-seb/seb43_main_033/assets/120554681/0ce55fbc-9876-4e22-aec4-19929e2e6212)
 <br />![SEB_MAIN_33 - 테이블 명세서-2](https://github.com/codestates-seb/seb43_main_033/assets/120554681/a53fe744-c113-44b4-94ab-d073fe239fdf)
-<BR>
-[API 명세서](https://rapil89.github.io/RapiL89.gitbhub.io/)
+<br><br>
+[[API 명세서]](https://rapil89.github.io/RapiL89.gitbhub.io/)
+<br>
 ![스크린샷 2023-05-31 오후 5 40 55](https://github.com/codestates-seb/seb43_main_033/assets/120554681/8b299670-7a93-46b7-a571-97dc5b592cb9)
-<BR>
+<br><br>
 [ERD]
 ![SEB_MAIN_33 - ERD-1](https://github.com/codestates-seb/seb43_main_033/assets/120554681/3e8557c7-9cae-4c75-9d71-2ed4a43731ec)
 
-<BR>
-  <BR>
-    <BR>
-      <BR>
+<br>
+  <br>
+    <br>
+      <br>
       
 ## 🛠 기능
 
