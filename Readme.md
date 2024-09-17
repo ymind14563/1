@@ -2,35 +2,31 @@
 
 # 우리의 급여
 급여명세서 자동생성 페이지
-<br>
-<br>
 
+</div>
+<br><br>
 
 # 👨‍👩‍👦‍👦 Team
 
-<br />
-
+<br>
 
 ### 🖥 Front-end
-|유호균|정 솔|유소영|김영택|
-|:-:|:-:|:-:|:-:|
-|<img src="https://avatars.githubusercontent.com/u/74657430?v=4" width=150>|<img src="https://i.imgur.com/FHz0HxW.png" width=150>|<img src="https://user-images.githubusercontent.com/114140840/234771212-e9aa7466-7197-4d9a-8322-3849a36786a0.png" width=150>|<img src="https://avatars.githubusercontent.com/u/74657430?v=4" width=150>|
-|[@ghrbsaod](https://github.com/ghrbsaod)|[@lyssoi](https://github.com/lyssoi)|[@ysycoding](https://github.com/ghrbsaod)|[@kooduck168](https://github.com/kooduck168)
-
-  
-  
+|이름|맡은 부분|
+|---|---|
+|유호균 [@ghrbsaod](https://github.com/ghrbsaod)|피그마, 페이지 중의 푸터,헤더, 메인 페이지 인터페이스 및 기능, 전체 기능 보수 |
+|정 솔 [@lyssoi](https://github.com/lyssoi)|로그인,회원가입,계좌CRUD,특이사항CRUD,급여명세서CRUD,근로자의 회사등록 및 승인|
+|유소영 [@ysycoding](https://github.com/ysycoding)|근로계약서 관리 CRUD, 사원정보 RUD,근무자의 캘린더 및 출퇴근, 특이사항 CRUD |        
   
 <br>
 
 ### ⚙️ Back-end
-|심재우|석원준|송준상|
-|:-:|:-:|:-:|
-|<img src="https://i.imgur.com/6rizOL2.png" width=150>|<img src="https://i.imgur.com/VxPdMLO.png" width=150>|<img src="https://avatars.githubusercontent.com/u/74657430?v=4" width=150>|
-|[@RapiL89](https://github.com/RapiL89)|[@ymind14563](https://github.com/ymind14563)|[@DDunDDang](https://github.com/DDunDDang)|
-  
-  
-  
-  
+|이름|맡은 부분|
+|---|---|
+|심재우 [@RapiL89](https://github.com/RapiL89)|회원 CRUD, OAuth 2.0, SpringSecurity|
+|석원준 [@ymind14563](https://github.com/ymind14563)|사원 CRUD, 회사 CRUD 및 이미지 업로드, 은행 CR, 계좌 CRUD, AWS 배포(EC2, RDS, S3, CodeDeploy), Git Actions|
+|송준상 [@DDunDDang](https://github.com/DDunDDang)|근로계약서 CRUD, 근무 상태 CRUD, 급여 명세서 CRD, PDF제작, EMAIL 전송, S3 업로드|
+
+<br>  
    
 # 🔎 Skills
 
@@ -110,24 +106,7 @@
       <BR>
       
 ## 🛠 기능
-        
-### FE
 
-|이름|맡은 부분|
-|---|---|
-|유호균|피그마, 페이지 중의 푸터,헤더, 메인 페이지 인터페이스 및 기능, 전체 기능 보수 |
-|정솔|로그인,회원가입,계좌CRUD,특이사항CRUD,급여명세서CRUD,근로자의 회사등록 및 승인|
-|유소영|근로계약서 관리 CRUD, 사원정보 RUD,근무자의 캘런더 및 출퇴근,특이사항 CRUD |
-|유호균||
-        
-        
-### BE
-
-|이름|맡은 부분|
-|---|---|
-|심재우|회원 CRUD, OAuth 2.0, SpringSecurity|
-|석원준|사원 CRUD, 회사 CRUD 및 이미지 업로드, 은행 CR, 계좌 CRUD, AWS 배포(EC2, RDS, S3, CodeDeploy), Git Actions|
-|송준상|근로계약서 CRUD, 근무 상태 CRUD, 급여 명세서 CRD, PDF제작, EMAIL 전송, S3 업로드|
   
   
 ## 🍵Team Culture
