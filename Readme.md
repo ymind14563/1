@@ -1,14 +1,47 @@
+
+  
 <div align="center">
-
-# 우리의 급여
-급여명세서 자동생성 페이지
-
+<img src="https://file.notion.so/f/f/2b05e2ab-2434-4f23-af54-0262da5521d9/db011ed5-36ef-4e7b-9c5c-0e6517271e4d/4a13cae9-7532-48c8-873b-b6221d6f4f6b.png?table=block&id=13df2360-e2bf-8067-be2b-c4060f1e89a8&spaceId=2b05e2ab-2434-4f23-af54-0262da5521d9&expirationTimestamp=1732032000000&signature=t9cuCwPOv_Cn4I5yW4bBGOTiFHu4Abie16erQjupbIQ&downloadName=image.png" alt="MovieMemo" width="400"/>
 </div>
+
+## 🌱프로젝트 소개
+* 주제 : 소규모 사업장을 위한 급여 관리 서비스 (급여명세서 자동생성)
+* 기획 의도 : 관리자는 사원의 출퇴근 및 급여를 효율적으로 관리하고, 근로자는 자신의 출퇴근 기록과 생성된 급여 명세서를 간편하게 확인할 수 있도록 하여 **사원 관리 및 급여 명세서 관리의 편리성**을 극대화하는 것이 목표
+* 기간 : 2023.05.08 ~ 2024.06.08 ( 30일 )
+
+
+
 <br><br>
 
-# 👨‍👩‍👦‍👦 Team
+## 📙 사용한 기술
+
+| **Category**         | **Technologies**                                                                 |
+|-----------------------|----------------------------------------------------------------------------------|
+| **Backend**          | Java 11, Spring Boot v2.7.12, JPA(Hibernate)                                    |
+| **Frontend**         | Next.js, TypeScript                                                            |
+| **Database**         | MySQL v8.0.4                                                                   |
+| **Cloud**            | AWS EC2, RDS, S3, CodeDeploy                                                   |
+| **CI/CD**            | GitHub Actions                                                                |
+| **Tool**             | Trello, GitHub      
 
 <br>
+<br>
+
+
+## ❓ 주요 기술 채택 이유
+
+- **Spring Boot** : 빠른 개발 환경과 생산성을 제공하며, 다양한 내장 기능으로 간편하게 웹 애플리케이션을 구현할 수 있어 채택.
+- **JPA (Hibernate)** : 객체와 관계형 데이터베이스 간의 매핑을 쉽게 처리하고, 코드 중심의 데이터 관리를 위해 채택.
+- **Next.js** : 서버 사이드 렌더링(SSR)과 정적 사이트 생성(SSG)을 지원하여 빠른 로딩 속도와 SEO 최적화를 위해 채택.
+- **TypeScript** : 정적 타입 검사를 통해 코드 안정성과 가독성을 높이고, 유지보수를 용이하게 하기 위해 채택.
+- **AWS (EC2, RDS, S3, CodeDeploy)** : 확장성과 안정성이 뛰어난 클라우드 서비스로, 다양한 애플리케이션 요구사항을 유연하게 대응하기 위해 채택.
+- **GitHub Actions** : CI/CD 파이프라인을 자동화하여 개발과 배포 효율성을 높이기 위해 채택.
+
+
+<br>
+<br>
+
+## 👨‍👩‍👦‍👦 Developer
 
 ### 🖥 Front-end
 |이름|맡은 부분|
@@ -22,58 +55,18 @@
 ### ⚙️ Back-end
 |이름|맡은 부분|
 |---|---|
-|심재우 [@RapiL89](https://github.com/RapiL89)|회원 CRUD, OAuth 2.0, SpringSecurity|
 |석원준 [@ymind14563](https://github.com/ymind14563)|사원 CRUD, 회사 CRUD 및 이미지 업로드, 은행 CR, 계좌 CRUD, AWS 배포(EC2, RDS, S3, CodeDeploy), Git Actions|
+|심재우 [@RapiL89](https://github.com/RapiL89)|회원 CRUD, OAuth 2.0, SpringSecurity|
 |송준상 [@DDunDDang](https://github.com/DDunDDang)|근로계약서 CRUD, 근무 상태 CRUD, 급여 명세서 CRD, PDF제작, EMAIL 전송, S3 업로드|
 
 <br>  
-   
-# 🔎 Skills
-
-<br />
 
 ## 프로젝트 설명
 ### 프로젝트 아키텍처
 ![image](https://github.com/codestates-seb/seb43_main_033/assets/120348865/1f85e57c-2715-417f-af67-49d056ac8716)
 
-### Deploy Tools
 
   <br><br>
-### Collaboration Tools
-
-<p>
-  <img src="https://user-images.githubusercontent.com/61264510/194802015-8823f450-9df6-48dd-9474-dec2c331cfe5.svg">
-</p>
-
-<br /><br /><br /><br />
-
-  
-# 💡 Pages
-
-<br />![234235_1](https://github.com/codestates-seb/seb43_main_033/assets/74657430/63232a40-24bf-43e5-9f8e-3b1268135682)
-<br />![234235_8](https://github.com/codestates-seb/seb43_main_033/assets/74657430/e901ca30-5920-4dc3-8520-1dc1e7cf396e)
-<br />![234235_9](https://github.com/codestates-seb/seb43_main_033/assets/74657430/557323f1-db48-46b2-8b34-305392ba8e48)
-<br />![234235_2](https://github.com/codestates-seb/seb43_main_033/assets/74657430/bb8591d6-3ce6-4dad-914d-2e6809de585d)
-<br />![234235_3](https://github.com/codestates-seb/seb43_main_033/assets/74657430/cec3acf9-f9cb-4680-bb89-6c03dc331a60)
-<br />![234235_4](https://github.com/codestates-seb/seb43_main_033/assets/74657430/f6b34885-3b23-4721-b3d1-76962e235879)
-<br />![234235_5](https://github.com/codestates-seb/seb43_main_033/assets/74657430/fb117af6-a0fd-402d-8f80-66888e72af59)
-<br />![234235_6](https://github.com/codestates-seb/seb43_main_033/assets/74657430/e81bb797-b101-4037-bfeb-afb936924007)
-<br />![234235_7](https://github.com/codestates-seb/seb43_main_033/assets/74657430/1d24c615-0a59-4366-be17-54934c381652)
-    
-
-<div align="center">
-  
-  
-  <br /><br /><br /><br />
-
-
-  
-<br >
-<div align="start">
-
-<br>
-  <br>
-    <br>
 
 
 ## :notebook: 사용자 요구사항 정의서
@@ -105,17 +98,17 @@
     <br>
       <br>
       
-## 🛠 기능
+# 💡 Pages
 
-  
-  
-## 🍵Team Culture
-❗필수 규칙
-
-프로젝트 일반 규칙
-- 평일에 13시부터 17시까지 디코에 상주하기
-- 주말은 보장합니다
-- 저희는 서로 상호 존중, 존대 방식이 Default 입니다 👍
+<br />![234235_1](https://github.com/codestates-seb/seb43_main_033/assets/74657430/63232a40-24bf-43e5-9f8e-3b1268135682)
+<br />![234235_8](https://github.com/codestates-seb/seb43_main_033/assets/74657430/e901ca30-5920-4dc3-8520-1dc1e7cf396e)
+<br />![234235_9](https://github.com/codestates-seb/seb43_main_033/assets/74657430/557323f1-db48-46b2-8b34-305392ba8e48)
+<br />![234235_2](https://github.com/codestates-seb/seb43_main_033/assets/74657430/bb8591d6-3ce6-4dad-914d-2e6809de585d)
+<br />![234235_3](https://github.com/codestates-seb/seb43_main_033/assets/74657430/cec3acf9-f9cb-4680-bb89-6c03dc331a60)
+<br />![234235_4](https://github.com/codestates-seb/seb43_main_033/assets/74657430/f6b34885-3b23-4721-b3d1-76962e235879)
+<br />![234235_5](https://github.com/codestates-seb/seb43_main_033/assets/74657430/fb117af6-a0fd-402d-8f80-66888e72af59)
+<br />![234235_6](https://github.com/codestates-seb/seb43_main_033/assets/74657430/e81bb797-b101-4037-bfeb-afb936924007)
+<br />![234235_7](https://github.com/codestates-seb/seb43_main_033/assets/74657430/1d24c615-0a59-4366-be17-54934c381652)
 
 
 프로젝트 개발 관련 규칙
