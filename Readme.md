@@ -104,7 +104,7 @@
 
 ## :notebook: API 명세서
 
-![스크린샷 2023-05-31 오후 5 40 55](https://github.com/codestates-seb/seb43_main_033/assets/120554681/8b299670-7a93-46b7-a571-97dc5b592cb9)
+![api명세서](https://github.com/user-attachments/assets/4913467e-a76f-457a-afca-d3cadf2943aa)
 
 <br>
 <br>
