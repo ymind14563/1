@@ -1,7 +1,7 @@
 
   
 <div align="center">
-<img src="https://file.notion.so/f/f/2b05e2ab-2434-4f23-af54-0262da5521d9/db011ed5-36ef-4e7b-9c5c-0e6517271e4d/4a13cae9-7532-48c8-873b-b6221d6f4f6b.png?table=block&id=13df2360-e2bf-8067-be2b-c4060f1e89a8&spaceId=2b05e2ab-2434-4f23-af54-0262da5521d9&expirationTimestamp=1732032000000&signature=t9cuCwPOv_Cn4I5yW4bBGOTiFHu4Abie16erQjupbIQ&downloadName=image.png" alt="MovieMemo" width="400"/>
+<img src="https://github.com/user-attachments/assets/fe44fc15-a036-4146-bd50-b3e73483cc40" alt="oursalary" width="400"/>
 </div>
 
 ## 🌱프로젝트 소개
